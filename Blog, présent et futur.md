@@ -1,0 +1,9 @@
+Rien d'un article instructif, j'avais juste envie de faire le point sur le blog. Je ne sais pas vraiment s'il y a des lecteurs réguliers, je n'y fais pas attention et ayant désactivé Piwik depuis un certain moment je n'ai donc pas les moyens d'en savoir quelque chose. Et peut-être que j'écris à moi-même sur une partie négligeable de l'immense Internet, mais maintenir ce blog est très plaisant pour moi et c'est l'essentiel du truc. Je ne veux pas me sentir obligé de pondre un article chaque semaine, voire par mois, si je n'en ai pas envie. Blah blah blah...
+
+Dans l'état actuel, le contenu du blog est très spécifique, comme vous pouvez le constater. En effet, la totalité des articles concerne le domaine des serveurs GNU/Linux, de la sécurité aux relais Tor, en passant par les conteneurs Docker. *Merci captain Obvious !* Mais si j'insiste sur ça c'est que je veux en venir au fait que ces sujets ne monopolisent plus mon temps libre et qu'il me serait déplaisant d'écrire à nouveau pour faire la même chose. Une forme de lassitude s'est installée mais elle ne concerne pas seulement le blog.
+
+*[IL VA RACONTER SA VIE]*
+
+En plus je vais commencer ma première année de médecine donc le temps libre va sérieusement manquer, mais ça ne veut pas dire pas que j'abandonne le blog. Pour être honnête ça va être franchement limite jusqu'à l'été prochain, mais je pense écrire des retours sur la PACES histoire de guider les futurs carabins... encore faut-il que je réussisse et me connaissant, c'est loin d'être gagné ! Par ailleurs je compte reprendre sérieusement la photographie d'ici peu, une passion que j'ai depuis quelques années mais que j'ai mise de côté, avec mon matériel qui prend la poussière. Je pense écrire sur ce sujet également, notamment pour guider les débutants en ce qui concerne le choix matériel/logiciel, comment bien comprendre l'histogramme, etc. Bref, on verra bien, je ne promets pas grand chose finalement.
+
+A bientôt.
